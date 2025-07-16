@@ -1,0 +1,308 @@
+.bg_bk18{
+    position: relative;
+    top:-82px;
+    margin-left: -1px;
+    height: 1700px;
+    width: 1352px;
+    background-color: lightgreen;
+}
+.bg_bk1_08{
+    position: relative;
+    top:52px;
+    margin-left: 20px;
+    height: 82px;
+    width: 200px;
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+.bg_bk1_008{
+    position: relative;
+    top:2px;
+    margin-left: 42px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 52px;
+    color: white;
+}
+.ck18{
+    position: relative;
+    top:28px;
+    margin-left: 226px;
+    height: 1482px;
+    width: 886px;
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+.ck108{
+    position: relative;
+    top:10px;
+    margin-left: 10px;
+    height: 1448px;
+    width: 865px;
+    background-color: lightcoral;
+    border-radius: 20px;
+}
+
+
+
+.fb18{
+    position: relative;
+    top:12px;
+    margin-left: 10px;
+    height: 82px;
+    width: 186px;
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+.fb108{
+    position: relative;
+    top:6px;
+    margin-left: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 52px;
+    color: white;
+}
+.ck1008{
+    position: relative;
+    top:-26px;
+    margin-left: 10px;
+    height: 255px;
+    width: 844px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.tx18{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 39px;
+}
+.tx108{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 2px;
+}
+.piz18{
+    position:relative;
+    top:-256px;
+    margin-left: 546px;
+    border-radius: 20%;
+}
+.txx18{
+    position: relative;
+    top : -308px;
+    margin-left: 592px;
+    height: 52px;
+    width : 156px;
+    background-color: brown;
+    border-radius: 20px;
+}
+.txx108{
+    position: relative;
+    top : -2px;
+    margin-left: 20px;
+    height: 52px;
+    width : 156px;
+    color:white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ck2008{
+    position: relative;
+    top:-58px;
+    margin-left: 10px;
+    height: 255px;
+    width: 844px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.tx28{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 39px;
+}
+.tx208{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 2px;
+}
+.piz28{
+    position:relative;
+    top:-256px;
+    margin-left: 546px;
+    border-radius: 20%;
+}
+.txx28{
+    position: relative;
+    top : -308px;
+    margin-left: 592px;
+    height: 52px;
+    width : 156px;
+    background-color: brown;
+    border-radius: 20px;
+}
+.txx208{
+    position: relative;
+    top : -2px;
+    margin-left: 20px;
+    height: 52px;
+    width : 156px;
+    color:white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ck3008{
+    position: relative;
+    top:-92px;
+    margin-left: 10px;
+    height: 255px;
+    width: 844px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.tx38{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 39px;
+}
+.tx308{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 2px;
+}
+.piz38{
+    position:relative;
+    top:-256px;
+    margin-left: 546px;
+    border-radius: 20%;
+}
+.txx38{
+    position: relative;
+    top : -308px;
+    margin-left: 592px;
+    height: 52px;
+    width : 156px;
+    background-color: brown;
+    border-radius: 20px;
+}
+.txx308{
+    position: relative;
+    top : -2px;
+    margin-left: 20px;
+    height: 52px;
+    width : 156px;
+    color:white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ck4008{
+    position: relative;
+    top:-126px;
+    margin-left: 10px;
+    height: 255px;
+    width: 844px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.tx48{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 39px;
+}
+.tx408{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 2px;
+}
+.piz48{
+    position:relative;
+    top:-256px;
+    margin-left: 546px;
+    border-radius: 20%;
+}
+.txx48{
+    position: relative;
+    top : -308px;
+    margin-left: 592px;
+    height: 52px;
+    width : 156px;
+    background-color: brown;
+    border-radius: 20px;
+}
+.txx408{
+    position: relative;
+    top : -2px;
+    margin-left: 20px;
+    height: 52px;
+    width : 156px;
+    color:white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ck5008{
+    position: relative;
+    top:-159px;
+    margin-left: 10px;
+    height: 255px;
+    width: 844px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.tx58{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 39px;
+}
+.tx508{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 2px;
+}
+.piz58{
+    position:relative;
+    top:-256px;
+    margin-left: 546px;
+    border-radius: 20%;
+}
+.txx58{
+    position: relative;
+    top : -308px;
+    margin-left: 592px;
+    height: 52px;
+    width : 156px;
+    background-color: brown;
+    border-radius: 20px;
+}
+.txx508{
+    position: relative;
+    top : -2px;
+    margin-left: 20px;
+    height: 52px;
+    width : 156px;
+    color:white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}

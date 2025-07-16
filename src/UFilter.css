@@ -1,0 +1,220 @@
+.fbg1{
+    position:relative;
+    width: 1348px;
+    height: 696px;
+    background-color: aquamarine;
+    top: -85px;
+}
+.fbg10{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    background-color: brown;
+    top: 50px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+.fbg100{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    color:aliceblue;
+    top: 2px;
+    margin-left: 25px;
+    border-radius: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.ty1{
+    position:relative;
+    width: 868px;
+    height: 559px;
+    background-color: brown;
+    top: 1px;
+    margin-left: 200px;
+    border-radius: 20px;
+}
+.ty10{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    background-color: lightcyan;
+    top: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+.ty100{
+    position: relative;
+    font-size: 50px;
+    top:1px;
+    margin-left: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.lk1{
+    position:relative;
+    width: 399px;
+    height: 359px;
+    background-color: lightcyan;
+    top: -22px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+.lk2{
+    position:relative;
+    width: 399px;
+    height: 359px;
+    background-color: lightcyan;
+    top: -422px;
+    margin-left: 459px;
+    border-radius: 20px;
+}
+.r1{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    color:burlywood;
+    top: 2px;
+    margin-left: 25px;
+    border-radius: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.r2{
+    position:relative;
+    width: 20px;
+    height: 20px;
+    color:burlywood;
+    top: 2px;
+    margin-left: 25px;
+}
+.r3{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    color:burlywood;
+    top: -59px;
+    margin-left: 86px;
+    border-radius: 20px;
+    font-size: 29px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.r20{
+    position:relative;
+    width: 20px;
+    height: 20px;
+    color:burlywood;
+    top: -89px;
+    margin-left: 25px;
+}
+.r30{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    color:burlywood;
+    top: -152px;
+    margin-left: 86px;
+    border-radius: 20px;
+    font-size: 29px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.r200{
+    position:relative;
+    width: 20px;
+    height: 20px;
+    color:burlywood;
+    top: -182px;
+    margin-left: 25px;
+}
+.r300{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    color:burlywood;
+    top: -242px;
+    margin-left: 86px;
+    border-radius: 20px;
+    font-size: 29px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.r1_0{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    color:burlywood;
+    top: 2px;
+    margin-left: 25px;
+    border-radius: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.r2_0{
+    position:relative;
+    width: 20px;
+    height: 20px;
+    color:burlywood;
+    top: 2px;
+    margin-left: 25px;
+}
+.r3_0{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    color:burlywood;
+    top: -59px;
+    margin-left: 86px;
+    border-radius: 20px;
+    font-size: 29px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.r2_00{
+    position:relative;
+    width: 20px;
+    height: 20px;
+    color:burlywood;
+    top: -89px;
+    margin-left: 25px;
+}
+.r3_00{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    color:burlywood;
+    top: -152px;
+    margin-left: 86px;
+    border-radius: 20px;
+    font-size: 29px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.app110{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    background-color: blanchedalmond;
+    top: -529px;
+    margin-left: 509px;
+    border-radius: 20px;
+}
+.app100{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    color:gray;
+    top: 2px;
+    margin-left: 19px;
+    border-radius: 20px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.bt110{
+    position:relative;
+    width: 160px;
+    height: 80px;
+    background-color: blanchedalmond;
+    top: -408px;
+    margin-left: 209px;
+    border-radius: 20px;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}

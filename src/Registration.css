@@ -1,0 +1,97 @@
+.head1{
+    position :relative;
+    top: 08px;
+    margin-left :888px;
+    font-family: Algerian;
+    color : white;
+}
+.reg12{
+    position :relative;
+    border-radius:20%;
+    margin-left :35px;
+    top: -111px;
+}
+
+.bg-color1{
+    position :relative;
+    background-color: #FF7F50;
+    padding :1px;
+}
+.name1{
+    position :relative;
+    top :-600px;
+    margin-left :900px;
+    border-radius: 10px;
+    font-size : 25px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+.con1{
+    position :relative;
+    top :-580px;
+    margin-left :900px;
+    border-radius: 10px;
+    font-size : 25px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+.email1{
+    position :relative;
+    top :-560px;
+    margin-left :900px;
+    border-radius: 10px;
+    font-size : 25px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+
+.pass1{
+    position :relative;
+    top :-540px;
+    margin-left :900px;
+    border-radius: 10px;
+    font-size : 25px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+.pass12{
+    position :relative;
+    top :-522px;
+    margin-left :900px;
+    border-radius: 10px;
+    font-size : 25px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+
+.butt1{
+    position :relative;
+    top :-482px;
+    margin-left :995px;
+    border-radius: 10px;
+    font-size : 22px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+    background-color: red;
+    color :white;
+}
+.log12{
+    position :relative;
+    top :-460px;
+    margin-left :920px;
+    border-radius: 10px;
+    font-size : 22px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+    color :white;
+}
+.log3{
+    position :relative;
+    top :-510px;
+    margin-left :1129px;
+    border-radius: 10px;
+    font-size : 22px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+    color :white;
+}

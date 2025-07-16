@@ -1,0 +1,73 @@
+/**{
+    margin:0px;
+    padding:5px;
+}*/
+.head{
+    position :relative;
+    top: 100px;
+    margin-left :988px;
+    font-family: Algerian;
+    color : #8B0000;
+}
+.log1{
+    position :relative;
+    border-radius:20%;
+    margin-left :35px;
+    top: -111px;
+}
+
+.bg-color{
+    position :relative;
+    background-color: #A9A9A9;
+    padding :1px;
+    /*height:800px;*/
+}
+.email{
+    position :relative;
+    top :-480px;
+    margin-left :900px;
+    border-radius: 10px;
+    font-size : 25px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+
+.pass{
+    position :relative;
+    top :-450px;
+    margin-left :900px;
+    border-radius: 10px;
+    font-size : 25px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+
+.butt{
+    position :relative;
+    top :-400px;
+    margin-left :1008px;
+    border-radius: 10px;
+    font-size : 22px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+    background-color: red;
+    color :white;
+}
+.reg{
+    position :relative;
+    top :-355px;
+    margin-left :902px;
+    border-radius: 10px;
+    font-size : 22px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+.reg3{
+    position :relative;
+    top :-405px;
+    margin-left :1128px;
+    border-radius: 10px;
+    font-size : 22px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}

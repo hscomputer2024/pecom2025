@@ -1,0 +1,308 @@
+.bg_bk1{
+    position: relative;
+    top:-82px;
+    margin-left: -1px;
+    height: 1700px;
+    width: 1352px;
+    background-color: lightgreen;
+}
+.bg_bk1_0{
+    position: relative;
+    top:52px;
+    margin-left: 20px;
+    height: 82px;
+    width: 200px;
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+.bg_bk1_00{
+    position: relative;
+    top:2px;
+    margin-left: 42px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 52px;
+    color: white;
+}
+.ck1{
+    position: relative;
+    top:28px;
+    margin-left: 226px;
+    height: 1482px;
+    width: 886px;
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+.ck10{
+    position: relative;
+    top:10px;
+    margin-left: 10px;
+    height: 1448px;
+    width: 865px;
+    background-color: lightcoral;
+    border-radius: 20px;
+}
+
+
+
+.fb1{
+    position: relative;
+    top:12px;
+    margin-left: 10px;
+    height: 82px;
+    width: 312px;
+    background-color: cadetblue;
+    border-radius: 20px;
+}
+.fb10{
+    position: relative;
+    top:6px;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 52px;
+    color: white;
+}
+.ck100{
+    position: relative;
+    top:-26px;
+    margin-left: 10px;
+    height: 255px;
+    width: 844px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.tx1{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 39px;
+}
+.tx10{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 2px;
+}
+.piz1{
+    position:relative;
+    top:-256px;
+    margin-left: 546px;
+    border-radius: 20%;
+}
+.txx1{
+    position: relative;
+    top : -308px;
+    margin-left: 592px;
+    height: 52px;
+    width : 156px;
+    background-color: brown;
+    border-radius: 20px;
+}
+.txx10{
+    position: relative;
+    top : -2px;
+    margin-left: 20px;
+    height: 52px;
+    width : 156px;
+    color:white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ck200{
+    position: relative;
+    top:-58px;
+    margin-left: 10px;
+    height: 255px;
+    width: 844px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.tx2{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 39px;
+}
+.tx20{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 2px;
+}
+.piz2{
+    position:relative;
+    top:-256px;
+    margin-left: 546px;
+    border-radius: 20%;
+}
+.txx2{
+    position: relative;
+    top : -308px;
+    margin-left: 592px;
+    height: 52px;
+    width : 156px;
+    background-color: brown;
+    border-radius: 20px;
+}
+.txx20{
+    position: relative;
+    top : -2px;
+    margin-left: 20px;
+    height: 52px;
+    width : 156px;
+    color:white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ck300{
+    position: relative;
+    top:-92px;
+    margin-left: 10px;
+    height: 255px;
+    width: 844px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.tx3{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 39px;
+}
+.tx30{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 2px;
+}
+.piz3{
+    position:relative;
+    top:-256px;
+    margin-left: 546px;
+    border-radius: 20%;
+}
+.txx3{
+    position: relative;
+    top : -308px;
+    margin-left: 592px;
+    height: 52px;
+    width : 156px;
+    background-color: brown;
+    border-radius: 20px;
+}
+.txx30{
+    position: relative;
+    top : -2px;
+    margin-left: 20px;
+    height: 52px;
+    width : 156px;
+    color:white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ck400{
+    position: relative;
+    top:-126px;
+    margin-left: 10px;
+    height: 255px;
+    width: 844px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.tx4{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 39px;
+}
+.tx40{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 2px;
+}
+.piz4{
+    position:relative;
+    top:-256px;
+    margin-left: 546px;
+    border-radius: 20%;
+}
+.txx4{
+    position: relative;
+    top : -308px;
+    margin-left: 592px;
+    height: 52px;
+    width : 156px;
+    background-color: brown;
+    border-radius: 20px;
+}
+.txx40{
+    position: relative;
+    top : -2px;
+    margin-left: 20px;
+    height: 52px;
+    width : 156px;
+    color:white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ck500{
+    position: relative;
+    top:-159px;
+    margin-left: 10px;
+    height: 255px;
+    width: 844px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+.tx5{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 39px;
+}
+.tx50{
+    position: relative;
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    top: 2px;
+}
+.piz5{
+    position:relative;
+    top:-256px;
+    margin-left: 546px;
+    border-radius: 20%;
+}
+.txx5{
+    position: relative;
+    top : -308px;
+    margin-left: 592px;
+    height: 52px;
+    width : 156px;
+    background-color: brown;
+    border-radius: 20px;
+}
+.txx50{
+    position: relative;
+    top : -2px;
+    margin-left: 20px;
+    height: 52px;
+    width : 156px;
+    color:white;
+    border-radius: 20px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}

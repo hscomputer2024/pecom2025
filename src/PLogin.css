@@ -1,0 +1,102 @@
+/**{
+    margin:0px;
+    padding:5px;
+}*/
+.head5{
+    position :relative;
+    top: 65px;
+    margin-left :125px;
+    font-family: TimesNewRoman;
+    color : #8B0000;
+    font-size: 80px;
+}
+.log15{
+    position :relative;
+    border-radius:20%;
+    margin-left :35px;
+    top: 15px;
+}
+
+.bg-color5{
+    position :relative;
+    background-color: #A9A9A9;
+    padding :1px;
+    height:648px;
+    width: 1362px;
+}
+.email5{
+    position :relative;
+    top :80px;
+    margin-left : 48px;
+    border-radius: 10px;
+    font-size : 33px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+
+.pass5{
+    position :relative;
+    top :138px;
+    margin-left :48px;
+    border-radius: 10px;
+    font-size : 33px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+
+.butt50{
+    position :relative;
+    top :182px;
+    margin-left :200px;
+    border-radius: 10px;
+    font-size : 22px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+    background-color: red;
+    color :white;
+}
+.reg5{
+    position :relative;
+    top :268px;
+    margin-left :90px;
+    border-radius: 10px;
+    font-size : 22px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+.reg35{
+    position :relative;
+    top :218px;
+    margin-left :315px;
+    border-radius: 10px;
+    font-size : 22px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+.m1{
+    position: relative;
+    top : 288px;
+    margin-left: 38px;
+    border-radius: 50%;
+}
+.f1{
+    position: relative;
+    top : 288px;
+    margin-left:38px;
+    border-radius: 50%;
+}
+.g1{
+    position: relative;
+    top : 288px;
+    margin-left:-168px;
+    border-radius: 50%;
+}
+.back5{
+    position: relative;
+    height: 619px;
+    width: 515px;
+    top : -665px ;
+    background-color: aqua;
+    margin-left: 800px;
+    border-radius: 20%;
+}

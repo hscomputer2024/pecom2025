@@ -1,0 +1,98 @@
+/**{
+    margin:0px;
+    padding:5px;
+}*/
+.head584{
+    position :relative;
+    top: 65px;
+    margin-left :125px;
+    font-family: TimesNewRoman;
+    color : #8B0000;
+    font-size: 80px;
+}
+.log1584{
+    position :relative;
+    border-radius:20%;
+    margin-left :35px;
+    top: 15px;
+}
+
+.bg-color584{
+    position :relative;
+    background-color: #A9A9A9;
+    padding :1px;
+    height:648px;
+    width: 1362px;
+}
+.name84{
+    position :relative;
+    top :65px;
+    margin-left : 48px;
+    border-radius: 10px;
+    font-size : 33px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+
+.con84{
+    position :relative;
+    top :88px;
+    margin-left :48px;
+    border-radius: 10px;
+    font-size : 33px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+.email584{
+    position :relative;
+    top :111px;
+    margin-left : 48px;
+    border-radius: 10px;
+    font-size : 33px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+
+.aad584{
+    position :relative;
+    top :135px;
+    margin-left :48px;
+    border-radius: 10px;
+    font-size : 25px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+
+
+
+.pass584{
+    position :relative;
+    top :158px;
+    margin-left :48px;
+    border-radius: 10px;
+    font-size : 33px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+}
+
+.butt5084{
+    position :relative;
+    top :182px;
+    margin-left :200px;
+    border-radius: 10px;
+    font-size : 22px;
+    font-weight: bold;
+    font-family: TimesNewRoman;
+    background-color: red;
+    color :white;
+}
+
+.back584{
+    position: relative;
+    height: 619px;
+    width: 515px;
+    top : -665px ;
+    background-color: aqua;
+    margin-left: 800px;
+    border-radius: 20%;
+}

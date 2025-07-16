@@ -1,0 +1,751 @@
+.back_color1{
+    position: relative;
+    height: 1429px;
+    width :1349px;
+    background-color: aqua;
+    top: -35px;
+}
+.back_cl1{
+    position: relative;
+    top: 15px;
+    margin-left: 5px;
+    height: 100px;
+    width: 1338px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+.hed1{
+    position: relative;
+    height: 88px;
+    width: 305px;
+    top: 6px;
+    margin-left: 6px;
+    border-radius: 20px;
+    background-color: brown;
+}
+.hd1{
+    position: relative;
+    top: 18px;
+    margin-left: 18px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+.hed2{
+    position: relative;
+    height: 74px;
+    width: 208px;
+    top: -78px;
+    margin-left: 345px;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hed2_0{
+    position: relative;
+    height: 74px;
+    width: 118px;
+    top: -155px;
+    margin-left: 572px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ig2{
+    position: relative;
+    top : 1px;
+    margin-left: 40px;
+    border-radius: 40%;
+}
+.hd2{
+    position: relative;
+    top: -39px;
+    margin-left: 8px;
+    font-size: 28px;
+    color: white;
+}
+.hed3{
+    position: relative;
+    height: 74px;
+    width: 118px;
+    top: -228px;
+    margin-left: 696px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ig3{
+    position: relative;
+    top : 1px;
+    margin-left: 40px;
+    border-radius: 40%;
+}
+.hd3{
+    position: relative;
+    top: -39px;
+    margin-left: 18px;
+    font-size: 28px;
+    color: white;
+}
+.hed4{
+    position: relative;
+    height: 74px;
+    width: 118px;
+    top: -302px;
+    margin-left: 820px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ig4{
+    position: relative;
+    top : 1px;
+    margin-left: 40px;
+    border-radius: 40%;
+}
+.hd4{
+    position: relative;
+    top: -39px;
+    margin-left: 2px;
+    font-size: 28px;
+    color: white;
+}
+.hed5{
+    position: relative;
+    height: 74px;
+    width: 118px;
+    top: -376px;
+    margin-left: 944px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ig5{
+    position: relative;
+    top : 1px;
+    margin-left: 40px;
+    border-radius: 40%;
+}
+.hd5{
+    position: relative;
+    top: -39px;
+    margin-left: 22px;
+    font-size: 28px;
+    color: white;
+}
+
+.hed6{
+    position: relative;
+    height: 74px;
+    width: 138px;
+    top: -450px;
+    margin-left: 1068px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ig6{
+    position: relative;
+    top : 1px;
+    margin-left: 50px;
+    border-radius: 40%;
+}
+.hd6{
+    position: relative;
+    top: -39px;
+    margin-left: 15px;
+    font-size: 28px;
+    color: white;
+}
+
+
+.hed7{
+    position: relative;
+    height: 74px;
+    width: 118px;
+    top: -524px;
+    margin-left: 1212px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ig7{
+    position: relative;
+    top : 1px;
+    margin-left: 40px;
+    border-radius: 40%;
+}
+.hd7{
+    position: relative;
+    top: -39px;
+    margin-left: 29px;
+    font-size: 28px;
+    color: white;
+}
+.back_cl2{
+    position: relative;
+    top: -526px;
+    margin-left: 1px;
+    height: 315px;
+    width: 1338px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+.bkc2{
+    position: relative;
+    height: 58px;
+    width: 305px;
+    top: 6px;
+    margin-left: 6px;
+    border-radius: 20px;
+    background-color: brown;
+}
+.bk2{
+    position: relative;
+    top: 8px;
+    margin-left: 18px;
+    font-size: 28px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+.b1{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: 19px;
+    margin-left: 6px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg1{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd1{
+    position: relative;
+    top: -45px;
+    margin-left: 96px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.b2{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -198px;
+    margin-left: 339px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg2{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd2{
+    position: relative;
+    top: -42px;
+    margin-left: 126px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.b3{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -415px;
+    margin-left: 672px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg3{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd3{
+    position: relative;
+    top: -35px;
+    margin-left: 56px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.b4{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -632px;
+    margin-left: 1005px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg4{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd4{
+    position: relative;
+    top: -35px;
+    margin-left: 59px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.back_cl3{
+    position: relative;
+    top: -542px;
+    margin-left: 1px;
+    height: 315px;
+    width: 1338px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+
+.bkc28{
+    position: relative;
+    height: 58px;
+    width: 305px;
+    top: 6px;
+    margin-left: 6px;
+    border-radius: 20px;
+    background-color: brown;
+}
+.bk28{
+    position: relative;
+    top: 8px;
+    margin-left: 39px;
+    font-size: 28px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+.b18{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: 19px;
+    margin-left: 6px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg18{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd18{
+    position: relative;
+    top: -42px;
+    margin-left: 56px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.b28{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -198px;
+    margin-left: 339px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg28{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd28{
+    position: relative;
+    top: -42px;
+    margin-left: 62px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.b38{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -415px;
+    margin-left: 672px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg38{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd38{
+    position: relative;
+    top: -35px;
+    margin-left: 85px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.b48{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -632px;
+    margin-left: 1005px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg48{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd48{
+    position: relative;
+    top: -38px;
+    margin-left: 48px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.back_cl4{
+    position: relative;
+    top: -555px;
+    margin-left: 1px;
+    height: 315px;
+    width: 1338px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+
+.bkc25{
+    position: relative;
+    height: 58px;
+    width: 408px;
+    top: 6px;
+    margin-left: 6px;
+    border-radius: 20px;
+    background-color: brown;
+}
+.bk25{
+    position: relative;
+    top: 8px;
+    margin-left: 39px;
+    font-size: 28px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+.b15{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: 19px;
+    margin-left: 6px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg15{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd15{
+    position: relative;
+    top: -42px;
+    margin-left: 86px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.b25{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -198px;
+    margin-left: 339px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg25{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd25{
+    position: relative;
+    top: -42px;
+    margin-left: 52px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.b35{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -415px;
+    margin-left: 672px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg35{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd35{
+    position: relative;
+    top: -38px;
+    margin-left: 109px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.b45{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -632px;
+    margin-left: 1005px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg45{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd45{
+    position: relative;
+    top: -38px;
+    margin-left: 28px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+.back_cl5{
+    position: relative;
+    top: -568px;
+    margin-left: 1px;
+    height: 315px;
+    width: 1338px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+
+.bkc29{
+    position: relative;
+    height: 58px;
+    width: 325px;
+    top: 6px;
+    margin-left: 6px;
+    border-radius: 20px;
+    background-color: brown;
+}
+.bk29{
+    position: relative;
+    top: 8px;
+    margin-left: 39px;
+    font-size: 28px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+.b19{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: 19px;
+    margin-left: 6px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg19{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd19{
+    position: relative;
+    top: -42px;
+    margin-left: 38px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.b29{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -198px;
+    margin-left: 339px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg29{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd29{
+    position: relative;
+    top: -42px;
+    margin-left: 62px;
+    font-size: 38px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.b39{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -415px;
+    margin-left: 672px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg39{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd39{
+    position: relative;
+    top: -38px;
+    margin-left: 29px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.b49{
+    position: relative;
+    height: 218px;
+    width: 329px;
+    top: -632px;
+    margin-left: 1005px;
+    border-radius: 20px;
+    background-color: lightcoral;
+    font-size: 28px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bg49{
+    position: relative;
+    top : 6px;
+    margin-left: 39px;
+    border-radius: 20%;
+}
+.bd49{
+    position: relative;
+    top: -38px;
+    margin-left: 38px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
