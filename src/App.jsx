@@ -28,8 +28,8 @@ import UFilter from './UFilter';
 function App() {
   return(
     <>
-      <Employee_dashboard />
-      {/*<Admin_dashboard />*/}
+      {/*<Employee_dashboard />*/}
+      <Admin_dashboard />
       {/*<PLogin />*/}
       {/*<URegistration />*/}
       {/*<SRegistration />*/}
