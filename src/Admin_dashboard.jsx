@@ -26,7 +26,7 @@ function Admin_dashboard(){
     return(
         <div className="back_bg1">
             <div className="head1">
-                Welcome , Admin Panel
+                Welcome , Hyper Study
             </div>
             {/*<input type="text" placeholder="Welcome , Admin Name" readOnly className="head1"/>*/}
             <div className="side1">
