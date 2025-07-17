@@ -44,9 +44,9 @@ function App() {
       {/*<User_Bill />*/}
       {/*<S_Bill />*/}
       {/*<UFilter />*/}
-      <AdminDashboard />
+      {/*<AdminDashboard />*/}
       {/*<StaffDashboard />*/}
-      {/*<FoodEcommerceApp />*/}
+      <FoodEcommerceApp />
       {/*<FoodEcommerceApp_ />*/}
     </>
   );
