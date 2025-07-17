@@ -25,11 +25,15 @@ import Check_Offer from './Check_Offer';
 import User_Bill from './User_Bill';
 import S_Bill from './S_Bill';
 import UFilter from './UFilter';
+import AdminDashboard from './AdminDashboard';
+import StaffDashboard from './StaffDashboard';
+import FoodEcommerceApp from './FoodEcommerceApp';
+import FoodEcommerceApp_ from './FoodEcommerceApp_';
 function App() {
   return(
     <>
       {/*<Employee_dashboard />*/}
-      <Admin_dashboard />
+      {/*<Admin_dashboard />*/}
       {/*<PLogin />*/}
       {/*<URegistration />*/}
       {/*<SRegistration />*/}
@@ -40,6 +44,10 @@ function App() {
       {/*<User_Bill />*/}
       {/*<S_Bill />*/}
       {/*<UFilter />*/}
+      <AdminDashboard />
+      {/*<StaffDashboard />*/}
+      {/*<FoodEcommerceApp />*/}
+      {/*<FoodEcommerceApp_ />*/}
     </>
   );
 }
